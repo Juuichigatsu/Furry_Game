@@ -1,0 +1,28 @@
+{
+  "name": "GDA_FER_S_02_REACT_Furry_Game",
+  "version": "1.0.0",
+  "description": "<img alt=\"Logo\" src=\"http://coderslab.pl/svg/logo-coderslab.svg\" width=\"400\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juuichigatsu/GDA_FER_S_02_REACT_Furry_Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juuichigatsu/GDA_FER_S_02_REACT_Furry_Game/issues"
+  },
+  "homepage": "https://github.com/Juuichigatsu/GDA_FER_S_02_REACT_Furry_Game#readme",
+  "devDependencies": {
+    "webpack": "^4.9.1",
+    "webpack-cli": "^2.1.4",
+    "webpack-dev-server": "^3.1.4"
+  },
+  "dependencies": {
+    "save-dev": "^2.0.0"
+  }
+}
